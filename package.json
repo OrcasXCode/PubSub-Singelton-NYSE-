@@ -1,0 +1,6 @@
+{
+  "description": "",
+  "dependencies": {
+    "redis": "^4.6.14"
+  }
+}
